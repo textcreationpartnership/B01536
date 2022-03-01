@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dreadful, and terrible, day of the Lord God, to overtake this generation suddenly; once more proclaimed.</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01536</idno>
+            <idno type="OCLC"> 12046827</idno>
+            <idno type="STC">Wing B1523</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.f.20[9]</idno>
+            <idno type="STC">ESTC R20773</idno>
+            <idno type="EEBO-CITATION">99883442</idno>
+            <idno type="PROQUEST">ocm99883442</idno>
+            <idno type="VID">183696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183696)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B1:5[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dreadful, and terrible, day of the Lord God, to overtake this generation suddenly; once more proclaimed.</title>
+                  <author>Bayly, William, d. 1675.</author>
+                  <author>I. S.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.B., i.e. William Bayly.</note>
+                  <note>The first page is signed: I.S.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint and author attribution from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Judgment Day --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:183696:1" rendition="simple:additions"/>
+            <head>THE Dreadful, and Terrible, Day of the <hi>LORD GOD,</hi> to over<g ref="char:EOLhyphen"/>take this Generation ſuddenly; once more Proclaimed.</head>
+            <p>CLouds and darkneſs are round about him, he cometh with Clouds, and every eye ſhall ſee him; and they that have peirced him ſhall mourn bitterly. <hi>Howl, howl, howl ye In<g ref="char:EOLhyphen"/>habitants of the Earth;</hi> who have made a Covenant with <hi>Death,</hi> and with <hi>Hell</hi> are at an <hi>Agreement,</hi> the Overflowing Scourge cometh; all your Lyes ſhall be ſwept away ſuddenly; as in a mo<g ref="char:EOLhyphen"/>ment, naked and bare muſt you appear, and ſtand before the Lamb the Judge of the whole Earth, of the Quick and the Dead. Oh! oh! what will you do in that day, ye Scoffers, ye Mockers, ye Ranters, ye Wantoners, ye Gamſters, ye Sporters, ye Cheaters, cozeners, decei<g ref="char:EOLhyphen"/>vers, oppreſſors, covetous, unrighteous; Tyrants over the witneſs, and witneſſes of God, who make merry over it. The Terrible, terrible, terrible, dreadful day of the Lord God is at hand: Oh who ſhall deli<g ref="char:EOLhyphen"/>ver you, and whether will you run, or flye, while your only Refuge, will be your Judge, Purſuer, Condemner, will mock at your deſtructi<g ref="char:EOLhyphen"/>on, when your fear cometh as a whirl-wind. Hear, hear, hear, O ye Inhabitants of the Earth; The great and terrible day of the Lord God, wherein he will ariſe to Judgement, breaks forth upon you ſuddenly: Oh what will you do ye Hypocrits, ye dawbers, ye painters, ye perſe<g ref="char:EOLhyphen"/>cutors, ye whoſe Silver is become Braſs, and Braſs, Iron; whoſe Hea<g ref="char:EOLhyphen"/>vens are become Braſs, and Earth Iron. Ye deceivers, Inchanters, be<g ref="char:EOLhyphen"/>nighting, and being benighted: Oh the dreadful day that is to over<g ref="char:EOLhyphen"/>take you ſuddenly. Behold I will ariſe ſaith the Lord, as upon Mount <hi>Perizim,</hi> and will be wrath as in the vally of <hi>Megiddon,</hi> and will bring forth my work; and behold vengeance is in my heart, and I will exe<g ref="char:EOLhyphen"/>cute it in behalf of the meek, and ſuch as have no helper in the Earth. Oh! oh! oh that men might in time hear, and fear, and conſider; But men in honour not underſtanding are like the Beaſts that periſh.</p>
+            <closer>
+               <signed>I. S.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="2" facs="tcp:183696:2"/>
+            <p>FReinds &amp; people every where that mention the name of the Lord in this the day of his mighty power, in which he will work wonders.</p>
+            <p>Thus ſaith the Lord God, keep to the meaſure of my ſpirit manifeſt<g ref="char:EOLhyphen"/>ed in your hearts, every one to your own, and be ſtill, be ſtill retired, keeping low, in the dread and true humillity, of mine <hi>Eternal, ſingle ſpirit of Iudgment and truth alone: Feel</hi> me the <hi>living God</hi> your <hi>habita<g ref="char:EOLhyphen"/>tion,</hi> your <hi>ſtrength,</hi> your <hi>peace,</hi> your <hi>Rock,</hi> your <hi>Iuſtifier</hi> in <hi>all thing;</hi> for behold I will <hi>ſweep,</hi> I will <hi>ſweep,</hi> I will <hi>fan,</hi> I will <hi>ſift</hi> the <hi>Nations</hi> to the <hi>bottom</hi> to the <hi>ground</hi> I will <hi>cruſh,</hi> I will <hi>break</hi> I will <hi>ſcatter,</hi> I will <hi>demo<g ref="char:EOLhyphen"/>liſh</hi> I will <hi>deſolve</hi> all <hi>fleſh</hi> (that hath corrupted its way,) all <hi>Mountains,</hi> all <hi>Ceaders,</hi> all <hi>ſtrong holds;</hi> I will break through, as he that breaketh through <hi>gates</hi> of <hi>Braſs,</hi> and <hi>bars</hi> of <hi>Iron,</hi> I will <hi>toſs</hi> and <hi>whirl</hi> the <hi>Moun<g ref="char:EOLhyphen"/>tains</hi> and <hi>hills</hi> in my fury, as he that toſſeth a Ball, I will <hi>overturn Tow<g ref="char:EOLhyphen"/>ers,</hi> and <hi>fenced places,</hi> as he that turneth up the <hi>mowen graſs,</hi> I will dry <hi>up Rivers</hi> and <hi>deeps,</hi> and I will bring up <hi>deeps</hi> to <hi>light,</hi> which hath not been known, behold I will work <hi>wonders,</hi> and <hi>miracles,</hi> and <hi>ſignes,</hi> in <hi>Heaven</hi> and <hi>Earth,</hi> and the <hi>Sea,</hi> to the <hi>aſtoniſhment</hi> of all fleſh (which ſhall faile before me) for I am a <hi>jealous God, a mighty, terrible, and dreadful God,</hi> rewarding every one according to his doings.</p>
+            <p>
+               <hi>Tremble</hi> ye <hi>Inhabitants</hi> of the <hi>Earth,</hi> for I will <hi>ſhake</hi> all <hi>nations, dread,</hi> and <hi>quake,</hi> and <hi>tremble</hi> before me, ye <hi>Kings,</hi> and <hi>Princes,</hi> and all ye <hi>great men</hi> &amp; <hi>Rulers</hi> of the <hi>Earth,</hi> your ſtrength is as Stubble before me, I am come in my <hi>fury</hi> &amp; <hi>zeal,</hi> to render a <hi>recompence</hi> for all your doings.</p>
+            <p>
+               <hi>Tremble</hi> ye <hi>careleſs daughters,</hi> weep and howl ye <hi>women</hi> that are at <hi>eaſe,</hi> for behold the day of your <hi>mourning</hi> is at hand, in which you ſhall be as <hi>Widdows,</hi> and all you <hi>daughters</hi> of <hi>Muſick,</hi> you ſhall <hi>waile</hi> and <hi>ſigth</hi> bitterly: Cry out and roar like Bears, all ye <hi>deceivers,</hi> all ye prophane <hi>hierlings, changeable Preiſts, Biſhops, Fryers, Deans, Monks, Popes, Car<g ref="char:EOLhyphen"/>dinals,</hi> and all ye unclean birds of prey, which have cauſed the people to <hi>Err</hi> for lack of knowledge, my <hi>terrible, notable,</hi> and <hi>dreadful</hi> day of <hi>vengeance</hi> is coming upon you; <hi>Ile ſhake, Ile aſtoniſh, Ile confound</hi> you, ye <hi>deviners,</hi> ye <hi>Inchanters,</hi> ye <hi>dreamers,</hi> ye <hi>Sorcerers,</hi> ye <hi>lyers,</hi> ye <hi>Mur<g ref="char:EOLhyphen"/>deres,</hi> ye <hi>Whore-mongers,</hi> ye <hi>bewichers, Ile make</hi> you <hi>mad, Ile amaze</hi> you, <hi>Ile diſtract</hi> you, <hi>Ile ſtrike</hi> you with <hi>blindneſs,</hi> and <hi>madneſs,</hi> and <hi>aſto<g ref="char:EOLhyphen"/>niſhments;</hi> and you ſhall <hi>curſe</hi> your <hi>Gods,</hi> and your <hi>Kings,</hi> and you ſhall <hi>fret your ſelves,</hi> and gnaw your <hi>tongues</hi> for <hi>pain</hi> and <hi>vexation.</hi>
+            </p>
+            <p>
+               <hi>Cry</hi> roar, <hi>howle, tremble,</hi> and be ye <hi>horribly Confounded,</hi> all ye <hi>Idola<g ref="char:EOLhyphen"/>ters,
+<pb n="3" facs="tcp:183696:2"/>Superſtioners, deceitful workers,</hi> and all <hi>Hypocrits,</hi> the day of <hi>venge<g ref="char:EOLhyphen"/>ance</hi> is in my heart againſt you, my <hi>Indignation</hi> burns, it is <hi>kindled,</hi> it <hi>flameth,</hi> it ſhall <hi>conſume</hi> you, and leave you neither <hi>root</hi> nor <hi>branch.</hi>
+            </p>
+            <p>
+               <hi>Behold</hi> the end of all fleſh is come up before me, <hi>Rejoyce</hi> ye upright in heart, ye <hi>undefiled,</hi> ye <hi>humble,</hi> and <hi>contrite</hi> ones, <hi>Rejoyce</hi> with <hi>fear</hi> and <hi>trembling, rejoyce</hi> thou <hi>heaven, rejoyce</hi> thou <hi>ſeed</hi> of <hi>Iacob,</hi> and of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> my friend, <hi>rejoyce</hi> thou true <hi>Iſralite,</hi> in whom is no <hi>guile, rejoyce</hi> ye <hi>holy Apoſtles,</hi> and <hi>Prophets,</hi> and <hi>Saints,</hi> ſing <hi>aloud</hi> upon your beds of <hi>E<g ref="char:EOLhyphen"/>ternal</hi> reſt, all ye Martyers, who love not your <hi>lives</hi> unto <hi>death,</hi> you followers of the <hi>Lamb</hi> ye <hi>Redeemed</hi> by his blood, ye <hi>choſen,</hi> ye <hi>faith<g ref="char:EOLhyphen"/>ful</hi> and true <hi>witneſſes,</hi> ſing <hi>praiſes</hi> for ever, and <hi>Halelujahs</hi> for ever, for I the <hi>mighty God</hi> of <hi>Iſrael,</hi> the <hi>everlaſting Iehovah,</hi> the <hi>I Am</hi> (and there is none can deliver out of my hand) will work and, none ſhall hinder; <hi>fear</hi> not ye <hi>babes</hi> of <hi>uprightneſs,</hi> ye <hi>ſingle</hi> hearted, ye <hi>noble</hi> plants of my renown, and glory, who dwell in the <hi>retiredneſs</hi> in my ſecret, <hi>dreadful infallible life,</hi> and <hi>Counſel</hi> and <hi>wiſdome,</hi> fearing to offend me the <hi>mighty juſt God;</hi> fear not the rage wrath, and fury of your Averſaries, though an Hoſt Encamp about you to deſtroy you; for behold my <hi>Bridle</hi> is in the Jaws of the <hi>Red Dragon,</hi> and my <hi>hook</hi> is in the noſe of the <hi>feirce Le<g ref="char:EOLhyphen"/>viathan,</hi> though no man can tame them, yet I the <hi>Lord God</hi> of <hi>all might</hi> and <hi>power,</hi> (who formed the crooked Serpent) will make my ſword to peirce through his Liver, fear not, I can break up his ſcales though like ſcales of Braſs, and draw his tongue out of his mouth, and the ſting of venome when I pleaſe, fear ye not the wrath of man, neither be afraid of their revilings, and threatnings, (but feel my <hi>pure, Innocent, harmleſs, upright life,</hi> and <hi>power</hi> in yout <hi>veſſels;</hi>) for behold Ile <hi>trample,</hi> and <hi>tread</hi> them under my <hi>feet</hi> and your <hi>feet,</hi> as one that treadeth upon <hi>morter,</hi> and no <hi>Idolater, Hypocrite,</hi> or <hi>wicked perſon,</hi> ſhall eſcape my <hi>mighty</hi> hand.</p>
+            <p>Therefore <hi>be ſilent,</hi> oh all fleſh, for I am ariſen in my <hi>holy habitation</hi> to plead with all Nations, <hi>come</hi> to <hi>Iudgement</hi> oh all ye <hi>ungodly</hi> and re<g ref="char:EOLhyphen"/>ceive your <hi>ſentence,</hi> Behold it draweth neer, prepare to the battel of my everlaſting <hi>vengeance,</hi> and <hi>recompences;</hi> oh all ye <hi>workers</hi> of <hi>iniquity,</hi> for my ſoul is filled with <hi>jealouſie,</hi> and everlaſting <hi>vengeance</hi> is in my heart againſt you, have you not been often warned of my righteous Judge<g ref="char:EOLhyphen"/>ments to come? have not my ſervants proclaimed them in your ſtreets and dwelling places? have I not cryed (through them) my mighty day, which comes like a Theif in the Night upon the wicked? Can
+<pb n="4" facs="tcp:183696:3"/>you ſay, you never heard the report thereof? Can you ſay you were not warned, within you, and without you? Then will I ſtay my fury.</p>
+            <p>But behold, I have ſent my meſſengers early and late unto you, to warne, reprove, and exhort you, but you have hardned your hearts, and ſtifned your necks, and cloſed your eyes, and ſtopped your ears, againſt them, and their meſſage; and not only ſo, but you have re<g ref="char:EOLhyphen"/>viled them, and mocked them, and ſtoned them, and buffeted them, and abuſed them, and perſecuted them, and Impriſoned them, and ſome of them you have cauſed thereby to ſuffer death, &amp;c. And what will you now do? will you ſay when ſaw we thee ſick, and in Priſon &amp; did not viſit thee? Or when ſaw we thee an hungred, or ſuffer afflicti<g ref="char:EOLhyphen"/>on, and did not miniſter unto thee? I tell you in as much as you have done violence to theſe my ſervants, and meſſengers, (whom I ſent un<g ref="char:EOLhyphen"/>to you,) you have done it unto me; and in as much as you ſhewed them no mercy, you have ſhewed no mercy unto me, for they came not unto you in their own wills and name, but in the will of him that ſent them, therefore are you left without excuſe, or can any of you ſay (to my face) you knew not that you were reproved for ſin, or did not know what was iniquity or tranſgreſſion againſt me, the pure holy God? Can you ſay that we knew not that Pride was ſin, or that Lying was ſin, or ſwearing was ſin, or you knew not that whoredome was ſin, or drun<g ref="char:EOLhyphen"/>kenneſs, or cheating, or ſcoffing, or envy, malice, and corrupt Com<g ref="char:EOLhyphen"/>munication, or wantonneſs or unjuſt dealing is ſin? Or can you ſay, you knew not that doing wrong to your Neighbour (as you would not be done unto is ſin, or Murder or Adultry is ſin? If you can ſay in truth that you knew not theſe things, whether they were good or e<g ref="char:EOLhyphen"/>vil, then will I yet ſtay my vengeance from deſcending upon you.</p>
+            <p>But behold my witneſs in your own Conſciences, the light of my ſpirit hath often ſtrived with you, and manifeſted theſe things unto you, and checkt you, and reproved you, which ſhall now eternally condemne you; and to it I have ſet my <hi>Seal,</hi> that neither <hi>heaven</hi> nor <hi>Earth</hi> ſhall <hi>deliver you,</hi> Amen.</p>
+            <closer>
+               <signed>Given forth, in the Eternal motion of the word of God,
+by W. B.</signed>
+            </closer>
+            <trailer>The END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
